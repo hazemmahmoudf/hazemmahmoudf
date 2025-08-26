@@ -1,7 +1,6 @@
 <p align="center">
-  <img width="80%" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1594645715165/q01-kk5fR.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Hazem - Flutter Developer">
+  <img width="80%" src="https://raw.githubusercontent.com/hazemmahmoudfathy/Flutter-Repo/main/assets/gh-readme-header.png" alt="Hazem - Flutter Developer">
 </p>
-
 
 <h2 align="center">Hi, I'm Hazem 👋</h2>
 <p align="center">A passionate Flutter developer from Egypt 🇪🇬</p>
@@ -25,8 +24,9 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hazemmahmoudf&layout=compact&theme=radical)
 
 ## 📂 Top Projects
-[![Todo App](https://github-readme-stats.vercel.app/api/pin/?username=hazemmahmoudf&repo=TodoApp-Flutter&theme=radical)](https://github.com/hazemmahmoudf/TodoApp-Flutter)
-[![News App](https://github-readme-stats.vercel.app/api/pin/?username=hazemmahmoudf&repo=NewsApp-Flutter&theme=radical)](https://github.com/hazemmahmoudf/NewsApp-Flutter)
+[![Taskati](https://github-readme-stats.vercel.app/api/pin/?username=hazemmahmoudf&repo=taskati&theme=radical)](https://github.com/hazemmahmoudf/taskati)
+[![TaskBMI](https://github-readme-stats.vercel.app/api/pin/?username=hazemmahmoudf&repo=taskbmi&theme=radical)](https://github.com/hazemmahmoudf/taskbmi)
+[![Bookia](https://github-readme-stats.vercel.app/api/pin/?username=hazemmahmoudf&repo=bookia&theme=radical)](https://github.com/hazemmahmoudf/bookia)
 
 ## 📫 Connect with me
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hazemmahmoudf)
