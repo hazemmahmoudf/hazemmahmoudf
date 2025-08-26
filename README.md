@@ -1,30 +1,39 @@
 <p align="center">
-  <a href="#">
-    <img width="80%" alt="Hello, I'm Hazem. I do Flutter!" src="https://raw.githubusercontent.com/hazemmahmoudfathy/Flutter-Repo/main/assets/gh-readme-header.png" />
-  </a>
+  <img width="80%" alt="Hazem - Flutter Developer" src="https://raw.githubusercontent.com/hazemmahmoudfathy/Flutter-Repo/main/assets/gh-readme-header.png" />
 </p>
 
-<br />
+<h2 align="center">Hi, I'm Hazem 👋</h2>
+<p align="center">A passionate Flutter developer from Egypt 🇪🇬</p>
 
-I'm a self-taught Flutter developer from Egypt 🇪🇬
+---
 
-**About me**
+## 🚀 About Me
+- 💻 Building apps with **Flutter & Dart**  
+- 📱 Experienced in **Todo apps, News apps**, and other Flutter projects  
+- ❤️ Love writing clean code, solving problems & building interactive UIs  
+- 💬 Ask me about **Flutter, Dart, OpenGL, DSP** or anything tech-related  
+- 📫 Contact me via [GitHub Issues](https://github.com/hazemmahmoudfathy/issues)
 
-- 💼 Flutter Developer, building apps with Dart & Flutter  
-- 📱 Experienced in building Todo apps, News apps, and many other Flutter projects  
-- ❤️ I love writing clean code, solving problems, and building interactive UIs  
-- 💬 Ask me about Flutter, Dart, OpenGL, DSP, or anything tech-related [here](https://github.com/hazemmahmoudfathy/issues)
+---
 
-<code><img height="20" alt="dart" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" alt="flutter" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" alt="c++" src="https://raw.githubusercontent.com/github/explore/06ce7c91f8f7a7bcb1c5a9b46b7d81f1e142a7e3/topics/cpp/cpp.png"></code>
-<code><img height="20" alt="opengl" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/opengl/opengl.png"></code>
-<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/06ce7c91f8f7a7bcb1c5a9b46b7d81f1e142a7e3/topics/python/python.png"></code>    
+## 🛠 Skills
 
-| <a href="https://github.com/hazemmahmoudfathy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hazemmahmoudfathy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hazem's github stats" /></a> | <a href="https://github.com/hazemmahmoudfathy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazemmahmoudfathy&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" title="Dart"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" title="Flutter"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/06ce7c91f8f7a7bcb1c5a9b46b7d81f1e142a7e3/topics/cpp/cpp.png" title="C++"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/opengl/opengl.png" title="OpenGL"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/06ce7c91f8f7a7bcb1c5a9b46b7d81f1e142a7e3/topics/python/python.png" title="Python"></code>
 
-#### Top Repositories
+---
+
+## 📊 GitHub Stats
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=hazemmahmoudfathy&show_icons=true&theme=buefy&hide_border=true" alt="Hazem's GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazemmahmoudfathy&layout=compact&theme=buefy&hide_border=true" /> |
+| --- | --- |
+
+---
+
+## 📂 Top Projects
 
 <a href="https://github.com/hazemmahmoudfathy/TodoApp-Flutter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hazemmahmoudfathy&repo=TodoApp-Flutter&theme=buefy" />
@@ -33,12 +42,13 @@ I'm a self-taught Flutter developer from Egypt 🇪🇬
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hazemmahmoudfathy&repo=NewsApp-Flutter&theme=buefy" />
 </a>
 
-<br />
-<br />
+---
+
+## 📫 Connect with me
 
 <a href="https://twitter.com/your-twitter">
-  <img align="right" alt="Hazem | Twitter" width="21px" src="https://raw.githubusercontent.com/hazemmahmoudfathy/Flutter-Repo/main/assets/twitter.svg" />
+  <img alt="Twitter" width="30" src="https://raw.githubusercontent.com/hazemmahmoudfathy/Flutter-Repo/main/assets/twitter.svg" />
 </a>
 <a href="https://codesandbox.io/u/hazemmahmoudfathy">
-  <img align="right" alt="Hazem | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/hazemmahmoudfathy/Flutter-Repo/main/assets/codesandbox.svg" />
+  <img alt="CodeSandbox" width="30" src="https://raw.githubusercontent.com/hazemmahmoudfathy/Flutter-Repo/main/assets/codesandbox.svg" />
 </a>
