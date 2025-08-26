@@ -1,4 +1,8 @@
-<p align="center"><a href="#"><img width="80%" alt="Hello, I'm Hazem. I do Flutter!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center">
+  <a href="#">
+    <img width="80%" alt="Hello, I'm Hazem. I do Flutter!" src="https://raw.githubusercontent.com/hazemmahmoudfathy/your-repo/main/assets/gh-readme-header.png" />
+  </a>
+</p>
 
 <br />
 
@@ -36,8 +40,4 @@ I'm a self-taught Flutter developer from Egypt 🇪🇬
 <br />
 
 <a href="https://twitter.com/your-twitter">
-  <img align="right" alt="Hazem | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/hazemmahmoudfathy">
-  <img align="right" alt="Hazem | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
+  <img align="right" a
