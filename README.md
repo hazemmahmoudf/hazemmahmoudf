@@ -1,6 +1,3 @@
-<p align="center">
-  <img width="80%" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1594645715165/q01-kk5fR.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Hazem - Flutter Developer">
-</p>
 
 <h2 align="center">Hi, I'm Hazem 👋</h2>
 <p align="center">A passionate Flutter developer from Egypt 🇪🇬</p>
