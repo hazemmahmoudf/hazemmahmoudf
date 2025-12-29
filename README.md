@@ -19,18 +19,3 @@ I am a Flutter Developer passionate about building clean and scalable mobile app
 [![](https://visitcount.itsvg.in/api?id=hazemmahmoudf&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hazemmahmoudf&theme=dracula)
-### 🔥 Most Used Languages
-
-[![Dart](https://img.shields.io/badge/Dart-00B4FF?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
-[![C++](https://img.shields.io/badge/C++-1E90FF?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![Java](https://img.shields.io/badge/Java-FFA500?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-- ### 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hazem-mahmoud-443ba7363?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m222000093@gmail.com)
-
-⭐ Feel free to check my repositories and give a star if you like my work!
