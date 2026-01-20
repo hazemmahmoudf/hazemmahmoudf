@@ -33,11 +33,5 @@ I am open to collaboration and contributing to open-source projects.
 
 ---
 
-### 🔝 Top Contributed Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hazemmahmoudf&repo=flutter_news_app&theme=gotham)](https://github.com/hazemmahmoudf/flutter_news_app)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hazemmahmoudf&repo=todo_flutter&theme=gotham)](https://github.com/hazemmahmoudf/todo_flutter)
-
 
 <!-- Proudly created with GPRM -->
